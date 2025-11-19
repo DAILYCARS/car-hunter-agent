@@ -1,0 +1,13 @@
+check_interval_minutes: 10
+
+price_min: 5000
+price_max: 200000
+
+# Lista źródeł (na razie tylko Otomoto)
+sources:
+  - otomoto
+
+# Skonfigurowany kanał Telegram
+telegram:
+  bot_token: ""
+  chat_id: ""
